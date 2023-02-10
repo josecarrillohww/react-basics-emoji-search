@@ -1,7 +1,15 @@
-export function ErrorMessage (){
+type ErrorMessageProps = {
+  handleRetry?: () => void
+}
+
+export function ErrorMessage (props: ErrorMessageProps){
+  const { handleRetry } = props
   return (
-    <p className="text-red-600 w-full my-4">
-      💀 Ooops!!, something went wrong 💀
-    </p>
+    <div className="w-full flex flex-col items-center justify-center">
+      <p className="text-red-600 my-4 text-center">
+        💀 Ooops!!, something went wrong 💀
+      </p>
+      <button onClick={handleRetry} className="text-slate-500 border border-gray-300 rounded-lg py-1 px-4">try again</button>
+    </div>
   )
 }
