@@ -59,8 +59,28 @@ $ yarn dev
 ## Tech stack
 
 - React 18
+- Typescript
 - [json-server](https://www.npmjs.com/package/json-server) as backend
 - [Vite](https://vitejs.dev/guide/) as bundling tool - [Why not use Create React App](https://liaogg.medium.com/its-time-to-stop-using-create-react-app-a99917dbfc#:~:text=It's%20Bulky%20and%20Slow.,setup%20a%20simple%20React%20project.)
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [React-use](https://github.com/streamich/react-use) offers a ton of hooks utilities
+
+## Good introductory Material
+- (Scrimba - Learn React)[https://scrimba.com/learn/learnreact]
+- (Egghead - The Begginner guide to react)[https://scrimba.com/learn/learnreact]
+- (React Beta Docs)[https://beta.reactjs.org/]
+
+## Next Steps
+
+- Data Fetching Libraries: (SWR)[https://swr.vercel.app/], (React Query)[https://react-query-v3.tanstack.com/], (Apollo client)[https://www.apollographql.com/docs/react/]
+- Routing: (React Router)[https://reactrouter.com/en/main]
+- (Context)[https://beta.reactjs.org/reference/react/createContext]
+- Error boundaries
+- Refs
+- Performance: React Memo, useCallback, useMemo
+- Advance Debugging
+- Complex state: Context with useReducer, (Redux)[https://redux-toolkit.js.org/], (Zustand)[https://zustand-demo.pmnd.rs/]
+- Frameworks: (Nextjs)[https://nextjs.org/], (Remix)[https://remix.run/]
+- GraphQl
+- (React Native)[https://reactnative.dev/]
 
