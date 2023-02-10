@@ -18,14 +18,12 @@ function App() {
 
   }
 
-  if (!emojis?.length) return null
-
   return (
     <div className="flex justify-start items-center flex-col h-screen bg-gradient-to-r from-gray-50 to-gray-100">
       <div className="px-1 min-w-md">
         <Header/>
         <SearchInput handleChange={handleChange}/>
-        <EmojiList emojiList={isSearching ? filteredEmojis : emojis} error={error} isLoading={loading || !emojis.length} refetch={refetch}/>
+        <EmojiList emojiList={isSearching ? filteredEmojis : emojis} error={error} isLoading={loading} refetch={refetch}/>
       </div>
     </div>
   )
