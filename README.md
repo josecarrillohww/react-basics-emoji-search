@@ -66,21 +66,21 @@ $ yarn dev
 - [React-use](https://github.com/streamich/react-use) offers a ton of hooks utilities
 
 ## Good introductory Material
-- (Scrimba - Learn React)[https://scrimba.com/learn/learnreact]
-- (Egghead - The Begginner guide to react)[https://scrimba.com/learn/learnreact]
-- (React Beta Docs)[https://beta.reactjs.org/]
+- [Scrimba - Learn React](https://scrimba.com/learn/learnreact)
+- [Egghead - The Begginner guide to react](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [React Beta Docs](https://beta.reactjs.org/)
 
 ## Next Steps
 
-- Data Fetching Libraries: (SWR)[https://swr.vercel.app/], (React Query)[https://react-query-v3.tanstack.com/], (Apollo client)[https://www.apollographql.com/docs/react/]
-- Routing: (React Router)[https://reactrouter.com/en/main]
-- (Context)[https://beta.reactjs.org/reference/react/createContext]
+- Data Fetching Libraries: [SWR](https://swr.vercel.app/], [React Query](https://react-query-v3.tanstack.com/), [Apollo client](https://www.apollographql.com/docs/react/)
+- Routing: [React Router](https://reactrouter.com/en/main)
+- [Context](https://beta.reactjs.org/reference/react/createContext)
 - Error boundaries
 - Refs
 - Performance: React Memo, useCallback, useMemo
 - Advance Debugging
-- Complex state: Context with useReducer, (Redux)[https://redux-toolkit.js.org/], (Zustand)[https://zustand-demo.pmnd.rs/]
-- Frameworks: (Nextjs)[https://nextjs.org/], (Remix)[https://remix.run/]
+- Complex state: Context with useReducer, [Redux](https://redux-toolkit.js.org/), [Zustand](https://zustand-demo.pmnd.rs/)
+- Frameworks: [Nextjs](https://nextjs.org/), [Remix](https://remix.run/)
 - GraphQl
-- (React Native)[https://reactnative.dev/]
+- [React Native](https://reactnative.dev/)
 
