@@ -19,28 +19,7 @@ export function EmojiList(props: EmojiListProps) {
       <EmojiRow title="smile" emojiSymbol="😀"/>
       <EmojiRow title="smile" emojiSymbol="😀"/>
       <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
-      <EmojiRow title="smile" emojiSymbol="😀"/>
+      
     </div>
   )
 }

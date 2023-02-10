@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="flex justify-start items-center flex-col h-screen bg-gradient-to-r from-gray-50 to-gray-100">
-      <div className="px-1 max-w-7xl">
+      <div className="px-1 min-w-md">
         <Header/>
         <SearchInput />
         <EmojiList />
